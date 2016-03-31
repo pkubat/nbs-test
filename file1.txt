@@ -2,7 +2,7 @@ this is a new file
 
 sadf
 asdf
-This is a chagned file
+This is a chagned file as standard
 asdf
 asd
 f
