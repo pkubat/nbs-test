@@ -2,9 +2,7 @@ this is a new file
 
 sadf
 asdf
-asdf
-as
-df
+This is a chagned file as standard
 asdf
 asd
 f
